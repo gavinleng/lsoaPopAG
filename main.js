@@ -2,11 +2,11 @@
  * Created by G on 06/10/2016.
  */
 
-
+ 
 var fs = require("fs");
 var path = require("path");
 
-var mappingId = require("./mappingId.js");
+var mappingId = require("mappingid-bot");
 
 //projection age group module
 var dataAgeGroup = require('./dataAgeGroup.js');
